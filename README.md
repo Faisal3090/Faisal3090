@@ -1,6 +1,5 @@
-Hello Everyone!!
- My name is MOHAMMEDFAISALKHAN KITTUR
- 
- I am a BE ComputerScience Majors student, Trying to solve my own problems, which in a way makes my subconsious mind to think about and get the solution for the various real world problems.
+Hello, everyone! My name is Mohammed Faisalkhan Kittur.
 
-And in this journey of trying to solve an problem, through researches, learning, and also stoping at some (huddles) bugs to re-think and maybe after some hours of time solve them. 
+I am a final-year B.E. Computer Science student who enjoys building things and solving problems that I come across. Most of my projects start with a simple question: "Can I automate this?" or "Can I build a better solution?"
+
+Throughout this journey, I spend a lot of time researching, learning, and experimenting with new technologies. Along the way, I often run into bugs and roadblocks that force me to stop, rethink my approach, and try again. Sometimes the solution comes quickly, and other times it takes hours of debugging—but that's all part of the learning process.
